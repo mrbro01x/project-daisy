@@ -16,9 +16,9 @@
 
 ## 📖 About Project Daisy
 
-**Project Daisy** is an open-source repository dedicated to preserving and sharing pristine, professionally formatted EPUB editions of classic literature. 
+**Project Daisy** is an open-source repository dedicated to preserving and sharing pristine, professionally formatted EPUB editions of classic Bengali literature. 
 
-While public-domain digital libraries are widely available, many suffer from formatting inconsistencies, OCR artifacts, broken internal navigation, or poor typographic standards. Project Daisy solves this by delivering clean, standards-compliant, and beautifully typeset EPUB 3 files designed for an optimal reading experience across all modern e-readers and applications.
+While public-domain digital Bengali libraries are widely available, many suffer from formatting inconsistencies, OCR artifacts, broken internal navigation, or poor typographic standards. Project Daisy solves this by delivering clean, standards-compliant, and beautifully typeset EPUB files designed for an optimal reading experience across all modern e-readers and applications.
 
 ---
 
@@ -41,7 +41,7 @@ You can download any `.epub` file directly from this repository and open it usin
 
 Contributions to improve existing texts or add new public-domain classics are always welcome!
 
-1. Ensure your EPUB file adheres strictly to EPUB 3 standards and is free from transcription errors.
+1. Ensure your EPUB file adheres strictly to EPUB (2 or 3) standards and is free from transcription errors.
 2. Fork the repository.
 3. Create your feature branch (`git checkout -b feature/AddClassicBook`).
 4. Commit your changes (`git commit -m 'Add [Author] - [Book Title]'`).
