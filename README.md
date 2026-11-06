@@ -37,16 +37,21 @@ You can download any `.epub` file directly from this repository and open it usin
 
 ---
 
-## 🤝 Contributing
+## 💡 Reporting Issues & Suggestions
 
-Contributions to improve existing texts or add new public-domain classics are always welcome!
+We strive to maintain the highest standard of typographic precision and accuracy in our EPUB archive. If you spot a typo, formatting error, or any discrepancy in a book, please let us know! 
 
-1. Ensure your EPUB file adheres strictly to EPUB (2 or 3) standards and is free from transcription errors.
-2. Fork the repository.
-3. Create your feature branch (`git checkout -b feature/AddClassicBook`).
-4. Commit your changes (`git commit -m 'Add [Author] - [Book Title]'`).
-5. Push to the branch (`git push origin feature/AddClassicBook`).
-6. Open a Pull Request.
+### How to Report an Error:
+
+1. **Open an Issue:** Navigate to the [Issues](../../issues) tab of this repository and click on **New Issue**.
+2. **Select the Template:** Choose the **"Book Error / Correction Report"** template.
+3. **Provide Details:** Fill out the requested information:
+   * **Book Title & Author**
+   * **Chapter / Section / Location**
+   * **Description of the issue** (What it currently says vs. what it should be)
+4. **Submit:** Click **Submit new issue**, and we will review and update the EPUB file accordingly.
+
+Your contributions help keep this archive pristine for readers everywhere!
 
 ---
 
