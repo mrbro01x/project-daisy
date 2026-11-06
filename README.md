@@ -2,7 +2,7 @@
 
 # Project Daisy 🌼
 
-<img src="/assets/daisy_flower.png" alt="Project Daisy" width="400" style="border-radius: 8px;" />
+<img src="https://raw.githubusercontent.com/mrbro01x/project-daisy/refs/heads/main/assets/daisy_flower.png" alt="Project Daisy" width="400" style="border-radius: 8px;" />
 
 ### A Meticulously Curated Archive of Classic Literary EPUB Editions
 
