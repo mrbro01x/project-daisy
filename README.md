@@ -7,7 +7,7 @@
 ### A Meticulously Curated Archive of Classic Literary EPUB Editions
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Format: EPUB](https://img.shields.io/badge/Format-EPUB%203-orange.svg)](https://www.idpf.org/epub/30/spec/epub30.html)
+[![Format: EPUB](https://img.shields.io/badge/Format-EPUB-orange.svg)](https://www.idpf.org/epub/30/spec/epub30.html)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](CONTRIBUTING.md)
 
 </div>
