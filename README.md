@@ -12,7 +12,6 @@
 
 </div>
 
----
 
 ## 📖 About Project Daisy
 
@@ -20,7 +19,6 @@
 
 While public-domain digital Bengali libraries are widely available, many suffer from formatting inconsistencies, OCR artifacts, broken internal navigation, or poor typographic standards. Project Daisy solves this by delivering clean, standards-compliant, and beautifully typeset EPUB files designed for an optimal reading experience across all modern e-readers and applications.
 
----
 
 ## ✨ Key Features
 
@@ -29,13 +27,11 @@ While public-domain digital Bengali libraries are widely available, many suffer 
 * **Cross-Device Compatibility:** Tested for flawless rendering on major reading platforms (Apple Books, Calibre, KOReader, Google Play Books, and dedicated e-ink devices).
 * **Open Source & Accessible:** Freely accessible for personal reading, archival, and community-driven curation.
 
----
 
 ## 📥 Access & Usage
 
 You can download any `.epub` file directly from this repository and open it using your preferred e-reader. If you use **Calibre**, these files can be easily synced to your mobile device or e-ink reader without any conversion issues.
 
----
 
 ## 💡 Reporting Issues & Suggestions
 
